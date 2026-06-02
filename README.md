@@ -102,6 +102,6 @@ This project demonstrates how CRM operations can be implemented using Java OOP p
 
 ## 👨‍💻 Author
 
-**Yadesh** - yadesh-coder
+**Yadesh** - @yadesh-coder
 
 Java | OOP | CRM Application Development
